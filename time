@@ -12,8 +12,8 @@ rolling          &      audio book
 wc               &      fast books
 in the car road  &      unknown 
 in the bus       &      comic
-in the plane     &      hacks(mathematics,science,philosophy,politics)
-getting high     &      listen to music making ideas and plan
+in the plane     & hacks(mathematics,science,philosophy,politics)
+getting high     &      listen to music making ideas and plan + unknown
 washing dishes   &      voice
 
 couch            &       unknown
@@ -35,7 +35,8 @@ other meal       &        unknown             +   peel + unknown
 
 brush            +        peel                +    unknown + sleep 
 
-unknown = {uni_queue dequeueing,
+unknown = {*uni_queue dequeueing,
+           making money ,
            research_stack popping,
            listen to audio book,
            take some test from yourself ,
@@ -44,10 +45,17 @@ unknown = {uni_queue dequeueing,
            read books,
            watching courses,
            taking quera courses,
-           study about cs
+           study about cs,
+           read reddit,
+           check messengers, 
+           read newspaper ,
+           active remembering,
+           content generating
            }
 
 stretching =   {2min,avizun,yoga,streatch,atwork}
+
+social = {LinkedIn,virgool,reddit,stack overflow,github}
 
 uni_queue = [0 ITPM,1 database,2 physic ii,3 ai]
 
