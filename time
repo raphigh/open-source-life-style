@@ -5,7 +5,7 @@ time bikar:
 1'st 10 min      :     shower
 2'nd 20 min      :     american english file
 3'nd 20 min      :     social
-MIN  _2 hrs      :     deep work pomodoro     +   unknown
+MIN  _2 hrs      :     deep work pomodoro     +   backache &> 2min stretching|avizoon in kish  |   yoga
 
 
 
@@ -24,16 +24,29 @@ walking          &       unknown
 
 
 looking for answer         &>      bodybuilding         +   unknown
-backache(aches)  &>      2min stretching|avizoon in kish  |   yoga
+backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 
 
 
-break fast       &        radio geek          +   peel
-lunch            &        unknow              +   peel
-other meal       &        unknown             +   peel
+break fast       &        radio geek          +   peel + unknown
+lunch            &        unknown              +   peel + unknown
+other meal       &        unknown             +   peel + unknown
 
 
 
 brush            +        peel                +    unknown + sleep 
 
+unknown = {uni_queue dequeueing,
+           research_stack popping,
+           listen to audio book,
+           take some test from yourself ,
+           listen to voice,
+           read magazine,
+           read books,
+           watching courses,
+           taking quera courses,
+           study about cs
+           }
+uni_queue = [0 ITPM,1 database,2 physic i,3 ai]
 
+research_stack = []
