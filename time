@@ -1,12 +1,11 @@
 time bikar:
-0'st _5 min      :     bed routine
-0'st 10 min      :     wc                    &   fast books
-1'st 10 min      :     movement
-1'st 10 min      :     shower
-2'nd 20 min      :     american english file
-3'nd 20 min      :     social
-MIN  _2 hrs      :     deep work pomodoro     +   backache &> 2min stretching|avizoon in kish  |   yoga
-
+0'st _5 min      :bed routine
+0'st 10 min      :wc&fastbook + water on knee + brush teeth & smile front miror
+1'st 10 min      :movement
+1'st 10 min      :shower
+2'nd 20 min      :american english file
+3'nd 20 min      :social
+MIN  _2 hrs      :deep work pomodoro+stretching 
 
 
 rolling          &      audio book
@@ -19,7 +18,7 @@ washing dishes   &      voice
 
 couch            &       unknown
 laying           &       unknown
-walking          &       unknown
+walking          &       talk to myself in English|listen to an eminem music&lysrics
 
 
 
@@ -47,6 +46,10 @@ unknown = {uni_queue dequeueing,
            taking quera courses,
            study about cs
            }
-uni_queue = [0 ITPM,1 database,2 physic i,3 ai]
+
+stretching =   {2min,avizun,yoga,streatch,atwork}
+
+uni_queue = [0 ITPM,1 database,2 physic ii,3 ai]
 
 research_stack = []
+
