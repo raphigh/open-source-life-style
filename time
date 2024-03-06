@@ -13,7 +13,7 @@ rolling          &      audio book
 wc               &      fast books
 in the car road  &      unknown 
 in the bus       &      comic
-in the plane     &      hacks
+in the plane     &      hacks(mathematics,science,philosophy,politics)
 getting high     &      listen to music making ideas and plan
 washing dishes   &      voice
 
@@ -23,8 +23,8 @@ walking          &       unknown
 
 
 
-thinkng          &>      bodybuilding         +   unknown
-backache(aches)  &>      stretching training  |   yoga
+looking for answer         &>      bodybuilding         +   unknown
+backache(aches)  &>      2min stretching|avizoon in kish  |   yoga
 
 
 
