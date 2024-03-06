@@ -22,7 +22,7 @@ walking          &       talk to myself in English|listen to an eminem music&lys
 
 
 
-looking for answer         &>      bodybuilding         +   unknown
+looking for answer         &>    miniworkout        +   unknown
 backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 
 
@@ -55,9 +55,17 @@ unknown = {*uni_queue dequeueing,
 
 stretching =   {2min,avizun,yoga,streatch,atwork}
 
+movement = {shking,dancing,stretching,jumping on some pillows,mini workout}
+
 social = {LinkedIn,virgool,reddit,stack overflow,github}
+
+
 
 uni_queue = [0 ITPM,1 database,2 physic ii,3 ai]
 
+
+
+
 research_stack = []
 
+miniworkout =
