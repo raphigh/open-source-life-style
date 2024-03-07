@@ -7,7 +7,7 @@
 [x] 2'nd 20 min      :american english file
 [ ] 3'nd 20 min      :social
 [x] MIN  _2 hrs      :deep work@pomodoro
-[.] MAX  20 min.     :breakfast&jadi + peel + unknown
+[x] MAX  20 min.     :breakfast&jadi + peel + unknown
 
 
 
@@ -25,16 +25,17 @@
 
 
 
-***atomic habit****
+***atomic habits***
 
 
 rolling          &      audio book
 wc               &      fast books
+looking to miror &      smile
 in the car road  &      unknown 
 in the bus       &      comic
-in the plane     & hacks(mathematics,science,philosophy,politics)
+in the plane &hacks(mathematics,science,philosophy,politics)
 getting high     &      listen to music making ideas and plan + unknown
-washing dishes   &      voice
+washing the dishes   &      voice
 
 couch            &       unknown
 laying           &       unknown
@@ -81,11 +82,20 @@ social = {LinkedIn,virgool,reddit,stack overflow,github}
 
 
 #the number before them is priority and a away to find something fast
-uni_queue = [0 ITPM,1 database,2 physic ii,3 ai]
+uni_queue = [0 ITPM,1 ai,1 database,2 physic ii]
 
-
+ai = [visual noting,review]
 
 
 research_stack = [bitcoin programming jimmy song,decentraland developing]
 
 miniworkout = [biceps,cross over dumbell,deep,push ups,rais aside wide arms , arnold press dumbell,plank,cobra stretch]
+
+
+book tree
+|
+visual noting
+|            \
+              scratch
+              |      \
+             Aima     ML scratch
