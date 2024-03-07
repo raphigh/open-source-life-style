@@ -1,4 +1,4 @@
-#############
+
 Main day
 start ->
 [o] 0'st _5 min      :bed routine
@@ -28,7 +28,7 @@ unknown
 [ ] -1'th 45 min : wc&5min day evaluation +brush +peel +active remembering +$leep
 
 
-##############
+
 
 
 
