@@ -1,24 +1,28 @@
 ***start***
-->
-[] 0'st _5 min      :bed routine
+-> Main day
+[o] 0'st _5 min      :bed routine
 [x] 0'st 10 min      :wc&fastbook + water on knee + brush teeth & smile front miror
 [x] 1'st 10 min      :movement 
-[ ] 1'st 10 min      :shower
+[o] 1'st 10 min      :shower
 [x] 2'nd 20 min      :american english file
-[ ] 3'nd 20 min      :social
+[o] 3'nd 20 min      :social
 [x] MIN  _2 hrs      :deep work@pomodoro
 [x] MAX  20 min.     :breakfast&jadi + peel + unknown
 
 
-
+unknown
 
 
 [ ] MAX 1   hrs.     :lunch&unknown+peel +unknown
 
 
+unknown
+
 
 [ ] MAX 10  min other meal       &        unknown             +   peel + unknown
 
+
+unknown
 
 
 [ ] -1'th 45 min : brush + peel + unknown + $leep
@@ -54,7 +58,7 @@ backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 
 pomordo = 15 min deep work + 5 min rest + pomodoro
 
-
+rest = {stretching, music, clip, social,wc }
 
 unknown = {*uni_queue dequeueing,
            making money ,
@@ -66,6 +70,7 @@ unknown = {*uni_queue dequeueing,
            read books,
            watching courses,
            taking quera courses,
+           problem solving in unlim,
            study about cs,
            read reddit,
            check messengers, 
@@ -74,7 +79,7 @@ unknown = {*uni_queue dequeueing,
            content generating
            }
 
-stretching =   {2min,avizun,yoga,streatch,atwork}
+stretching =   {2min,avizun,yoga,streatch,atwork,sotoon fagharat}
 
 movement = {shking,dancing,stretching,jumping on some pillows,mini workout}
 
@@ -82,7 +87,7 @@ social = {LinkedIn,virgool,reddit,stack overflow,github}
 
 
 #the number before them is priority and a away to find something fast
-uni_queue = [0 ITPM,1 ai,1 database,2 physic ii]
+uni_queue = [0 ITPM,1 ai,1 database,2 physics ii]
 
 ai = [visual noting,review]
 
