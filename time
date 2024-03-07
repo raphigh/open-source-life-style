@@ -7,6 +7,7 @@ time bikar:
 3'nd 20 min      :social
 MIN  _2 hrs      :deep work pomodoro+stretching 
 
+MAX  20 min.     : breakfast
 
 rolling          &      audio book
 wc               &      fast books
@@ -27,13 +28,18 @@ backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 
 
 
-break fast       &        radio geek          +   peel + unknown
+
 lunch            &        unknown              +   peel + unknown
 other meal       &        unknown             +   peel + unknown
 
 
 
 brush            +        peel                +    unknown + sleep 
+
+
+pomordo = 15 min deep work + 5 min rest + pomodoro
+
+
 
 unknown = {*uni_queue dequeueing,
            making money ,
