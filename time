@@ -1,15 +1,22 @@
-time bikar:
-[ ] 0'st _5 min      :bed routine
-[ ] 0'st 10 min      :wc&fastbook + water on knee + brush teeth & smile front miror
-[ ] 1'st 10 min      :movement
+***start***
+->
+[] 0'st _5 min      :bed routine
+[x] 0'st 10 min      :wc&fastbook + water on knee + brush teeth & smile front miror
+[x] 1'st 10 min      :movement 
 [ ] 1'st 10 min      :shower
-[ ] 2'nd 20 min      :american english file
+[x] 2'nd 20 min      :american english file
 [ ] 3'nd 20 min      :social
-[ ] MIN  _2 hrs      :deep work@pomodoro
-[ ] MAX  20 min.     :breakfast
+[x] MIN  _2 hrs      :deep work@pomodoro
+[.] MAX  20 min.     :breakfast&jadi + peel + unknown
+
+
+
 
 
 [ ] MAX 1   hrs.     :lunch&unknown+peel +unknown
+
+
+
 [ ] MAX 10  min other meal       &        unknown             +   peel + unknown
 
 
@@ -18,7 +25,7 @@ time bikar:
 
 
 
-rules:
+***atomic habit****
 
 
 rolling          &      audio book
@@ -39,7 +46,10 @@ looking for answer         &>    miniworkout        +   unknown
 backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 
  
-definition:
+***definition***
+
+
+
 
 pomordo = 15 min deep work + 5 min rest + pomodoro
 
