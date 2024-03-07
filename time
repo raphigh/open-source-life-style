@@ -3,23 +3,23 @@ Main day
 start ->
 [o] 0'st _5 min      :bed routine
 [x] 0'st 10 min      :wc&fastbook + water on knee + brush teeth + smile front miror
-[x] 1'st 20 min      :movement 
+[x] 1'st 20 min      :aerobic 
 [x] 2'nd 20 min      :journaling
 [o] 3'nd  5 min      :plan day
 [x] MIN  _2 hrs      :deep work@pomodoro
-[x] MAX  20 min.     :breakfast&jadi + peel + check social
+[x] MAX  20 min.     :breakfast&jadi + peel + matrix
 
 
 unknown
 
 
-[ ] MAX 1   hrs.     :lunch&unknown+peel + check social
+[ ] MAX 1   hrs.     :lunch&unknown+peel + matrix
 
 
 unknown
 
 
-[ ] MAX 10  min other meal       &        unknown             +   peel + check social
+[ ] MAX 10  min other meal       &        unknown             +   peel + matrix
 
 
 unknown
@@ -89,6 +89,8 @@ unknown = {cleaning environment,
 
 stretching =   {2min,avizun,yoga,streatch,atwork,sotoon fagharat}
 
+
+matrix = {check social media,trade}
 movement =  (shking,dancing,stretching,jumping on some pillows,mini workout,sotoon faqarat}
 
 journaling = {LinkedIn,virgool,reddit,stack overflow,github}
