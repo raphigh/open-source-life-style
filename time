@@ -60,12 +60,12 @@ movement = {shking,dancing,stretching,jumping on some pillows,mini workout}
 social = {LinkedIn,virgool,reddit,stack overflow,github}
 
 
-
+#the number before them is priority and a away to find something fast
 uni_queue = [0 ITPM,1 database,2 physic ii,3 ai]
 
 
 
 
-research_stack = []
+research_stack = [bitcoin programming jimmy song,decentraland developing]
 
-miniworkout =
+miniworkout = [biceps,cross over dumbell,
