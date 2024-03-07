@@ -60,13 +60,13 @@ backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 
 
 
-pomordo = 15 min deep work + 5 min rest + pomodoro
+♤ pomordo = 15 min deep work + 5 min rest + pomodoro
 
-rest = {stretching, music, clip, social,wc }
+♤ rest = {stretching, music, clip, social,wc }
 
-cleaning = {wash the dishes,clean the room or home}
+♤ cleaning = {wash the dishes,clean the room or home}
 
-unknown = {cleaning environment, 
+♤ unknown = {looking for MIT, 
            *uni_queue dequeueing,
            making money ,
            content generating,
@@ -87,30 +87,30 @@ unknown = {cleaning environment,
            duolingo
            }
 
-stretching =   {2min,avizun,yoga,streatch,atwork,sotoon fagharat}
+
+♤ looking for MIT(most important task) = {cleaning&thinking,mini workout&thinking}
+
+♤ stretching =  {2min,avizun,yoga,streatch,atwork,sotoon fagharat}
 
 
-matrix = {check social media,trade}
-movement =  (shking,dancing,stretching,jumping on some pillows,mini workout,sotoon faqarat}
+♤ matrix = {check social media,trade}
 
-journaling = {LinkedIn,virgool,reddit,stack overflow,github}
+♤ movement =  (shking,dancing,stretching,jumping on some pillows,mini workout,sotoon faqarat}
+
+♤ journaling = {LinkedIn,virgool,reddit,stack overflow,github}
+
+♤ miniworkout = [cross over,biceps dumbell,deep,rais aside wide arms,plank,cobra stretch,push ups]
 
 
 #the number before them is priority and a away to find something fast
-uni_queue = [0 ITPM,1 ai,1 database,2 physics ii]
+♤ uni_queue = [0 ITPM,1 ai,1 database,2 physics ii]
 
-ai = [visual noting,review]
+♤ ai = [visual noting,review]
+
+waiting for list:
+♤ research_stack = [bitcoin programming jimmy song,decentraland developing second mind,gtd,visual noting,backache,habits]
+
+waiting for list: 
+♤ books = {think again,width or depth,side job,be useful}
 
 
-research_stack = [bitcoin programming jimmy song,decentraland developing]
-
-miniworkout = [biceps,cross over dumbell,deep,push ups,rais aside wide arms , arnold press dumbell,plank,cobra stretch]
-
-
-book tree
-|
-visual noting
-|            \
-              scratch
-              |      \
-             Aima     ML scratch
