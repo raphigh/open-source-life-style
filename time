@@ -60,7 +60,8 @@ pomordo = 15 min deep work + 5 min rest + pomodoro
 
 rest = {stretching, music, clip, social,wc }
 
-unknown = {*uni_queue dequeueing,
+unknown = {cleaning environment, 
+           *uni_queue dequeueing,
            making money ,
            research_stack popping,
            listen to audio book,
