@@ -1,5 +1,6 @@
-***start***
--> Main day
+#############
+Main day
+start ->
 [o] 0'st _5 min      :bed routine
 [x] 0'st 10 min      :wc&fastbook + water on knee + brush teeth & smile front miror
 [x] 1'st 10 min      :movement 
@@ -28,6 +29,9 @@ unknown
 [ ] -1'th 45 min : brush + peel + unknown + $leep
 
 
+##############
+
+
 
 ***atomic habits***
 
@@ -38,8 +42,8 @@ looking to miror &      smile
 in the car road  &      unknown 
 in the bus       &      comic
 in the plane &hacks(mathematics,science,philosophy,politics)
-getting high     &      listen to music making ideas and plan + unknown
-washing the dishes   &      voice
+getting high     &      listen to music making ideas and plan + 
+cleaning   &      voice
 
 couch            &       unknown
 laying           &       unknown
@@ -51,6 +55,7 @@ looking for answer         &>    miniworkout        +   unknown
 backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 
  
+
 ***definition***
 
 
@@ -59,6 +64,8 @@ backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 pomordo = 15 min deep work + 5 min rest + pomodoro
 
 rest = {stretching, music, clip, social,wc }
+
+cleaning = {wash the dishes,clean the room or home}
 
 unknown = {cleaning environment, 
            *uni_queue dequeueing,
@@ -82,7 +89,7 @@ unknown = {cleaning environment,
 
 stretching =   {2min,avizun,yoga,streatch,atwork,sotoon fagharat}
 
-movement = {shking,dancing,stretching,jumping on some pillows,mini workout}
+movement =  (shking,dancing,stretching,jumping on some pillows,mini workout,sotoon faqarat}
 
 social = {LinkedIn,virgool,reddit,stack overflow,github}
 
