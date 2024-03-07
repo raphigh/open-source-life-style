@@ -8,25 +8,25 @@ start ->
 [x] 2'nd 20 min      :american english file
 [o] 3'nd 20 min      :social
 [x] MIN  _2 hrs      :deep work@pomodoro
-[x] MAX  20 min.     :breakfast&jadi + peel + unknown
+[x] MAX  20 min.     :breakfast&jadi + peel + check social
 
 
 unknown
 
 
-[ ] MAX 1   hrs.     :lunch&unknown+peel +unknown
+[ ] MAX 1   hrs.     :lunch&unknown+peel + check social
 
 
 unknown
 
 
-[ ] MAX 10  min other meal       &        unknown             +   peel + unknown
+[ ] MAX 10  min other meal       &        unknown             +   peel + check social
 
 
 unknown
 
 
-[ ] -1'th 45 min : brush + peel + unknown + $leep
+[ ] -1'th 45 min : brush+peel+active remembering+$leep
 
 
 ##############
@@ -70,6 +70,7 @@ cleaning = {wash the dishes,clean the room or home}
 unknown = {cleaning environment, 
            *uni_queue dequeueing,
            making money ,
+           content generating,
            research_stack popping,
            listen to audio book,
            take some test from yourself ,
@@ -81,10 +82,10 @@ unknown = {cleaning environment,
            problem solving in unlim,
            study about cs,
            read reddit,
-           check messengers, 
+           watch YouTube,
            read newspaper ,
            active remembering,
-           content generating
+           duolingo
            }
 
 stretching =   {2min,avizun,yoga,streatch,atwork,sotoon fagharat}
