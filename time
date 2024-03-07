@@ -1,13 +1,25 @@
 time bikar:
-0'st _5 min      :bed routine
-0'st 10 min      :wc&fastbook + water on knee + brush teeth & smile front miror
-1'st 10 min      :movement
-1'st 10 min      :shower
-2'nd 20 min      :american english file
-3'nd 20 min      :social
-MIN  _2 hrs      :deep work pomodoro+stretching 
+[ ] 0'st _5 min      :bed routine
+[ ] 0'st 10 min      :wc&fastbook + water on knee + brush teeth & smile front miror
+[ ] 1'st 10 min      :movement
+[ ] 1'st 10 min      :shower
+[ ] 2'nd 20 min      :american english file
+[ ] 3'nd 20 min      :social
+[ ] MIN  _2 hrs      :deep work@pomodoro
+[ ] MAX  20 min.     :breakfast
 
-MAX  20 min.     : breakfast
+
+[ ] MAX 1   hrs.     :lunch&unknown+peel +unknown
+[ ] MAX 10  min other meal       &        unknown             +   peel + unknown
+
+
+
+[ ] -1'th 45 min : brush + peel + unknown + $leep
+
+
+
+rules:
+
 
 rolling          &      audio book
 wc               &      fast books
@@ -26,16 +38,8 @@ walking          &       talk to myself in English|listen to an eminem music&lys
 looking for answer         &>    miniworkout        +   unknown
 backache(aches)  &>      2min stretching|avizoon in kish  |   yoga + unknown
 
-
-
-
-lunch            &        unknown              +   peel + unknown
-other meal       &        unknown             +   peel + unknown
-
-
-
-brush            +        peel                +    unknown + sleep 
-
+ 
+definition:
 
 pomordo = 15 min deep work + 5 min rest + pomodoro
 
